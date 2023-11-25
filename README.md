@@ -5,3 +5,5 @@ Some interesting codes I wrote, may not be innovative, may not be beautiful, may
 + `Simplex-Solver`: A simplex method based convex linear programming solver for my optimization course. May contain bugs.
 + `Mp4-to-Gif Convertor`: Input a mp4 video, output a gif image. Customizable parameters. 
 + `Image Quad Tree`: A quad tree based image blurring algorithm.
++ `String-Match`: String match algorithm, including pattern (`*` and `?`) match and `strstr` implementation.
+
